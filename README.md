@@ -17,6 +17,7 @@
 ### Instaration
 
 ```
-git clone
-cd
+git clone https://github.com/yokohama/onionRouter.git
+cd onionRouter
+./onion.sh
 ```
