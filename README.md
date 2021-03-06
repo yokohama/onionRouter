@@ -1,4 +1,5 @@
-### このスクリプトは以下のファイルを上書き（初期化）します。すでにネットワークの設定をしている場合は、実行しないでください。
+## Alert!!!
+- このスクリプトは以下のファイルを上書き（初期化）します。すでにネットワークの設定をしている場合は、実行しないでください。
 
 ```
 /etc/dhcpcd.conf
@@ -14,7 +15,7 @@
 /etc/iptables/rules.v4
 ```
 
-### Instaration
+## Instaration
 
 ```
 git clone https://github.com/yokohama/onionRouter.git
