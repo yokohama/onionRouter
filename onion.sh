@@ -154,7 +154,6 @@ function start_iptables () {
 ############################
 
 set_config
-update_sysctl_conf
 update_dhcpcd_conf
 start_hostapd
 start_dnsmasq
